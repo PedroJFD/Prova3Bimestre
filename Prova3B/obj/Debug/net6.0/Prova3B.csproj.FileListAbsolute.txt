@@ -1,0 +1,15 @@
+C:\Users\2022102020041\source\repos\Prova3B\Prova3B\bin\Debug\net6.0\Prova3B.exe
+C:\Users\2022102020041\source\repos\Prova3B\Prova3B\bin\Debug\net6.0\Prova3B.deps.json
+C:\Users\2022102020041\source\repos\Prova3B\Prova3B\bin\Debug\net6.0\Prova3B.runtimeconfig.json
+C:\Users\2022102020041\source\repos\Prova3B\Prova3B\bin\Debug\net6.0\Prova3B.dll
+C:\Users\2022102020041\source\repos\Prova3B\Prova3B\bin\Debug\net6.0\Prova3B.pdb
+C:\Users\2022102020041\source\repos\Prova3B\Prova3B\obj\Debug\net6.0\Prova3B.csproj.AssemblyReference.cache
+C:\Users\2022102020041\source\repos\Prova3B\Prova3B\obj\Debug\net6.0\Prova3B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020041\source\repos\Prova3B\Prova3B\obj\Debug\net6.0\Prova3B.AssemblyInfoInputs.cache
+C:\Users\2022102020041\source\repos\Prova3B\Prova3B\obj\Debug\net6.0\Prova3B.AssemblyInfo.cs
+C:\Users\2022102020041\source\repos\Prova3B\Prova3B\obj\Debug\net6.0\Prova3B.csproj.CoreCompileInputs.cache
+C:\Users\2022102020041\source\repos\Prova3B\Prova3B\obj\Debug\net6.0\Prova3B.dll
+C:\Users\2022102020041\source\repos\Prova3B\Prova3B\obj\Debug\net6.0\refint\Prova3B.dll
+C:\Users\2022102020041\source\repos\Prova3B\Prova3B\obj\Debug\net6.0\Prova3B.pdb
+C:\Users\2022102020041\source\repos\Prova3B\Prova3B\obj\Debug\net6.0\Prova3B.genruntimeconfig.cache
+C:\Users\2022102020041\source\repos\Prova3B\Prova3B\obj\Debug\net6.0\ref\Prova3B.dll
